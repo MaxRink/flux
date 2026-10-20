@@ -51,7 +51,7 @@ require (
 	github.com/google/go-containerregistry v0.11.0
 	github.com/google/go-github/v28 v28.1.1
 	github.com/gorilla/mux v1.8.0
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.3
 	github.com/imdario/mergo v0.3.13
 	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/klauspost/compress v1.15.9 // indirect
